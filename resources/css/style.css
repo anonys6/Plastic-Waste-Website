@@ -98,7 +98,7 @@ a {
     color: #666;
     text-transform: uppercase;
     padding: 20px 0;
-    
+
 }
 
 nav {
@@ -290,10 +290,32 @@ nav {
 
 .section-looking {
     padding: 100px 0 !important;
+    text-align: center;
 }
 
+.looking-heading {
+    line-height: 54px;
+    margin-bottom: 15px;
+    color: #121214;
+    font-weight: 300;
+    font-size: 31px;
+}
 
+.looking-sub-heading {
+    margin-bottom: 33px;
+    font-size: 21px;
+    font-weight: 200;
+    line-height: 1.4;
+    color: #93B3CE;
+}
 
+.looking-bottom-bg {
+    background-image: url(img/child_bottom.png);
+    width: 968px;
+    height: 231px;
+    text-align: center;
+    margin-left: 85px;
+}
 
 .section-contact {
     background-color: #121214;

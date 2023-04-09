@@ -116,6 +116,11 @@ nav {
     margin: 0;
 }
 
+.nav-logo {
+    height: 70px;
+    padding: 5px 0;
+}
+
 .container-enroll {
     background-color: #93B3CE;
     color: #FFF;

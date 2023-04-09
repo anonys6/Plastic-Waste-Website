@@ -287,6 +287,12 @@ nav {
     padding-bottom: 15px;
 }
 
+
+.section-looking {
+    padding: 100px 0 !important;
+}
+
+
 .section-contact {
     background-color: #121214;
     padding: 100px 0;

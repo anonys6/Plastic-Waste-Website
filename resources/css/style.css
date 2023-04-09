@@ -146,7 +146,7 @@ nav {
 .header-image {
     background-image: url(img/slide-bg.jpg);
     background-size: cover;
-    background-attachment: scroll;
+    background-attachment: scroll !important;
     background-position: center;
     background-repeat: no-repeat;
     position: relative;

@@ -293,6 +293,8 @@ nav {
 }
 
 
+
+
 .section-contact {
     background-color: #121214;
     padding: 100px 0;
@@ -327,42 +329,4 @@ footer {
     color: #555;
     font-size: 13px;
     line-height: 24px;
-}
-
-
-
-/* fluid grid */
-
-.section {
-    clear: both;
-    padding: 0;
-    margin: 0;
-}
-
-.section:before,
-.section:after {
-    content: "";
-    display: table;
-}
-
-.section:after {
-    clear: both;
-}
-
-.section {
-    zoom : 1;
-}
-
-.row {
-    margin-right: 0 auto !important;
-}
-
-.col {
-    display: block;
-    float: left;
-    margin: 1% 0 1% 1.6%;
-}
-
-.con:first-child {
-    margin-left: 0;
 }

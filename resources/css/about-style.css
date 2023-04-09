@@ -239,6 +239,42 @@ nav {
     padding-left: 20px;
 }
 
+.col-icon {
+    margin-top: 0;
+    display: inline-block;
+}
+
+.col-add {
+    display: inline-block;
+}
+
+.contact-white {
+    color: #FFF !important;
+    font-weight: 400;
+}
+
+.contact-para {
+    color: #777;
+    font-size: 13px;
+    list-style: 24px;
+    font-weight: 700;
+    line-height: 35px;
+}
+
+.contact-icon li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.contact-icon li a i {
+    color: #fff;
+    font-size: 30px;
+}
+
+.contact-container {
+    padding-left: 20px;
+}
+
 .contact-para {
     color: #777;
     font-size: 13px;

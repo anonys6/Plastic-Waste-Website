@@ -138,6 +138,11 @@ nav {
     font-style: italic;
 }
 
+.nav-logo {
+    height: 70px;
+    padding: 5px 0;
+}
+
 .header-image {
     background-image: url(img/slide-bg.jpg);
     background-size: cover;

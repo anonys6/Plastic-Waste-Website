@@ -356,6 +356,16 @@ nav {
     line-height: 35px;
 }
 
+.contact-icon li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.contact-icon li a i {
+    color: #fff;
+    font-size: 30px;
+}
+
 footer {
     padding: 30px 0;
     text-align: center;

@@ -223,7 +223,7 @@ nav {
 
 
 .section-whoweare {
-    padding: 70px 0;
+    padding: 70px 0 !important;
     text-align: center;
 }
 
@@ -231,7 +231,7 @@ nav {
     font-size: 36px;
     font-weight: 300;
     letter-spacing: -1px;
-    line-height: 54px;
+    line-height: 65px;
     color: #000;
     margin-bottom: 30px;
 }

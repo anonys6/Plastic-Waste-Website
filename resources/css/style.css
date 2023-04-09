@@ -140,13 +140,13 @@ nav {
 
 .nav-logo {
     height: 70px;
-    padding: 5px 0 !important;
+    padding: 5px 0;
 }
 
 .header-image {
     background-image: url(img/slide-bg.jpg);
     background-size: cover;
-    background-attachment: scroll !important;
+    background-attachment: scroll;
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
